@@ -10,7 +10,8 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
-|05.04.2018 | Maarifa | İstanbul/Kocaeli Gebze | Senior Frontend Developer | oguz.kilic@maarifa.com.tr | HTML, CSS, JavaScript, Ecmascript6-7, React, Redux, SASS |
+|05.07.2018 | Akinon | İstanbul| Senior Frontend Developer | https://bit.ly/2KB6RjG | HTML5, CSS3, JavaScript, ES6, Redux, React, Elastic Search | 
+05.04.2018 | Maarifa | İstanbul/Kocaeli Gebze | Senior Frontend Developer | oguz.kilic@maarifa.com.tr | HTML, CSS, JavaScript, Ecmascript6-7, React, Redux, SASS |
 |05.04.2018 | Maarifa | İstanbul/Kocaeli Gebze | Mid Frontend Developer | oguz.kilic@maarifa.com.tr | HTML, CSS, JavaScript, Ecmascript6-7 | SASS |
 |27.02.2018 | Trendyol | İstanbul | Software Development Engineer - Node.js | https://goo.gl/SV73xR | JavaScript, node.js, Ecmascript6, Mocha, Chai | 
 |27.02.2018 | Trendyol | İstanbul | Arayüz Geliştirme Uzmanı | https://goo.gl/xtJhyQ | HTML5,CSS3, STYLUS, JavaScript, Webpack, SASS |
